@@ -42,7 +42,7 @@
    <testCaseLink>
       <guid>5dd2667a-5cf7-44f5-99c0-a73abb9ec966</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/DEMO/DataDrivenTTestingDemo - Internal</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
